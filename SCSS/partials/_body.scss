@@ -1,0 +1,23 @@
+/*Bodys de todas las paginas del sitio*/
+
+/*Index*/
+
+.presentacion {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2em;
+
+    background: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url(../Imagenes/Avion/rueda-avion-recortada.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    justify-items: center;
+    background-size: cover;
+    
+}
+
+.paragraphInicio {
+    font-size: 15px;
+    padding: 10px;
+    overflow: hidden;
+
+}

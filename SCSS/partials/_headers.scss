@@ -1,0 +1,64 @@
+/*Header de todas las paginas del sitio*/
+
+/*Index*/
+.headerIndex {
+    height: 1080px;
+    background-image: url(../Imagenes/Header/salida-6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerTandem {
+    height: 1080px;
+    background-image: url(../Imagenes/Tandem/tandem7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.headerCurso {
+    height: 1080px;
+    background-image: url(../Imagenes/FotosVideos/salida-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerFotosVideos {
+    height: 1080px;
+    background-image: url(../Imagenes/FotosVideos/angulo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerDropzone {
+    height: 1080px;
+    background-image: url(../Imagenes/Dropzone/DZ3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headerContacto {
+    height: 1080px;
+    background-image: url(../Imagenes/Curso/curso123.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.navbarHeader {
+    .ulHeader { 
+        margin-left: 20px;
+        li {
+            a {
+                font-family: "Open Sans", sans-serif;
+               
+             }
+        }
+    }
+}
+
+
+
+
+
