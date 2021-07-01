@@ -60,11 +60,22 @@
   background-size: cover;
 }
 
+.header404 {
+  height: 1080px;
+  background-image: url(../Imagenes/404/404.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .navbarHeader .ulHeader {
   margin-left: 20px;
 }
 .navbarHeader .ulHeader li a {
   font-family: "Open Sans", sans-serif;
+}
+
+.navbarHeader {
+  background-color: rgba(226, 0, 26, 0.9);
 }
 
 /*Bodys de todas las paginas del sitio*/
