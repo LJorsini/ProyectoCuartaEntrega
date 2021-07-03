@@ -20,7 +20,8 @@
 /*Index*/
 .headerIndex {
   height: 1080px;
-  background-image: url(../Imagenes/Header/salida-6.png);
+  background-color: aqua;
+  background-image: url(../Imagenes/FotosVideos/salida-6.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
