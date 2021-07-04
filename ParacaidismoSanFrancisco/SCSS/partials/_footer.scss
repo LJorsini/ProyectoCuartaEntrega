@@ -1,5 +1,11 @@
-.h2Footer, .paragraphFooter, .h2Footer {
+.h2Footer {
+    font-family: "Open Sans", sans-serif;
     font-size:large;
+}
+
+.paragraphFooter {
+    font-size: large;
+
 }
 
 .linksRapidos {
@@ -16,4 +22,8 @@
 .copyRight {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.05);
+}
+
+.facebook {
+    color: brown;
 }

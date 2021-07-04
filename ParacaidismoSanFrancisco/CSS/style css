@@ -1,9 +1,4 @@
-.h2Footer {
-  font-family: "Open Sans", sans-serif;
-  font-size: large;
-}
-
-.paragraphFooter {
+.h2Footer, .paragraphFooter, .h2Footer {
   font-size: large;
 }
 
@@ -19,10 +14,6 @@
 .copyRight {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.05);
-}
-
-.facebook {
-  color: brown;
 }
 
 /*Header de todas las paginas del sitio*/
@@ -87,18 +78,6 @@
   background-color: rgba(226, 0, 26, 0.9);
 }
 
-.contacto {
-  font-family: "Open Sans", sans-serif;
-}
-
-.h1Tandem, .paragraphTandem {
-  font-family: "Open Sans", sans-serif;
-}
-
-.listaTandem {
-  list-style: none;
-}
-
 /*Bodys de todas las paginas del sitio*/
 /*Index*/
 .presentacion {
@@ -118,4 +97,4 @@
   overflow: hidden;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style%20css.map */

@@ -1,4 +1,9 @@
-.h2Footer, .paragraphFooter, .h2Footer {
+.h2Footer {
+  font-family: "Open Sans", sans-serif;
+  font-size: large;
+}
+
+.paragraphFooter {
   font-size: large;
 }
 
@@ -16,11 +21,14 @@
   background-color: rgba(0, 0, 0, 0.05);
 }
 
+.facebook {
+  color: brown;
+}
+
 /*Header de todas las paginas del sitio*/
 /*Index*/
 .headerIndex {
   height: 1080px;
-  background-color: aqua;
   background-image: url(../Imagenes/FotosVideos/salida-6.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -77,6 +85,18 @@
 
 .navbarHeader {
   background-color: rgba(226, 0, 26, 0.9);
+}
+
+.contacto {
+  font-family: "Open Sans", sans-serif;
+}
+
+.h1Tandem, .paragraphTandem {
+  font-family: "Open Sans", sans-serif;
+}
+
+.listaTandem {
+  list-style: none;
 }
 
 /*Bodys de todas las paginas del sitio*/
