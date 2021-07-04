@@ -1,0 +1,38 @@
+/*Mobile Styles*/
+
+/* Mobile*/
+@media only screen and (max-width: 400px) {
+    .h4Footer {
+        display: inline;
+    }
+
+    .h2Footer, .h3Footer {
+        display: none;
+    }
+
+    
+
+}
+
+/*Tablet*/
+@media only screen and (min-width: 401px) and (max-width:960px) {
+    .h3Footer {
+        display: inline;
+    }
+
+    .h2Footer, .h4Footer {
+        display: none;
+    }
+
+    
+}
+
+/* Desktop */
+@media only screen and (min-width: 961px) {
+    .h3Footer, .h4Footer {
+        display: none;
+    }
+
+
+    
+}
