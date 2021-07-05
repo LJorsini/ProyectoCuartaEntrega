@@ -1,4 +1,4 @@
-.h2Footer, .h3Footer, .h4Footer {
+.h2Footer, .h3Footer, .h4Footer, .h2Paracaidismo, .h2Links, .h2Contact {
   font-family: "Open Sans", sans-serif;
   font-size: large;
 }
@@ -99,6 +99,10 @@
   list-style: none;
 }
 
+.contacto .nav .nav-item a {
+  color: black;
+}
+
 /*Bodys de todas las paginas del sitio*/
 /*Index*/
 .presentacion {
@@ -115,7 +119,10 @@
 .paragraphInicio {
   font-size: 15px;
   padding: 10px;
-  overflow: hidden;
+}
+
+.h1404, .paragraph404 {
+  font-family: "Open Sans", sans-serif;
 }
 
 /*Mobile Styles*/
