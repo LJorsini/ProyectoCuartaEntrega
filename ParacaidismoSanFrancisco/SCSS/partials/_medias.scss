@@ -10,6 +10,16 @@
         display: none;
     }
 
+    .tel-contacto, .mapa-contacto, .mail-contacto {
+        display: none;
+    }
+
+    .telefono, .e-mail, .mapa {
+        display: flex;
+        padding: 25px;
+        
+    }
+
 }
 
 /*Tablet*/
@@ -22,12 +32,26 @@
         display: none;
     }
 
+    .tel-contacto, .mapa-contacto, .mail-contacto {
+        display: none;
+    }
+
+    .telefono, .e-mail, .mapa {
+        display: flex;
+        padding: 25px;
+        
+    }
+
     
 }
 
 /* Desktop */
 @media only screen and (min-width: 961px) {
     .h3Footer, .h4Footer {
+        display: none;
+    }
+
+    .telefono, .e-mail, .mapa {
         display: none;
     }
 }
